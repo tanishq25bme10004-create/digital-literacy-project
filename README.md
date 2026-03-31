@@ -2,9 +2,9 @@
 ## VIT Bhopal University | Student Digital Ambassador Portfolio
 
 ### Student Information
-* **Name:** Altamash
-* **Registration Number:** 25BAC10010
-* **Branch:** B.Tech ECE (AI & Cybernetics)
+* **Name:** Tanishq Loharuka
+* **Registration Number:** 25BME10004
+* **Branch:** B.Tech Mechanical Enineering
 * **Year:** First Year B.Tech (2025-26)
 
 ---
@@ -50,4 +50,4 @@ As a Student Digital Ambassador, I have developed this Digital Literacy Portfoli
 
 
 ### Google Forms Link 🔗
-- https://docs.google.com/forms/d/e/1FAIpQLSdaXI1zAfVvmEp8Uxslt2ow_zhp4u55h_BjkYk72sn6L3cmag/viewform?usp=publish-editor
+- https://docs.google.com/forms/d/e/1FAIpQLSf07Vrh5JMN2jM11y5Y3L0arpOE8XkIDYtl9x19FCviYXOf4A/viewform?usp=publish-editor
