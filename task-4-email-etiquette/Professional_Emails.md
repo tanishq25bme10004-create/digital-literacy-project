@@ -1,10 +1,10 @@
-# Professional Emails – ALTAMASH
+# Professional Emails – Tanishq Loharuka
 
 ---
 
 ## Email 1: Extension Request
 
-**Subject:** Extension Request: Digital Literacy Project - ALTAMASH (25BAC10010)
+**Subject:** Extension Request: Digital Literacy Project - Tanishq Loharuka (25BME10004)
 
 Dear Professor,
 
@@ -17,27 +17,27 @@ Would it be possible to submit my work by **2nd April 2026**? I have already com
 Thank you for your time and consideration.
 
 Best regards,  
-**Altamash**  
-Reg No: 25BAC10010   
-B.Tech ECE (AI & Cybernetics)
+**Tanishq Loharuka**  
+Reg No: 25BME10004 
+B.Tech Mechanical Engineering
 
 ---
 
 ## Email 2: Internship Inquiry
 
-**Subject:** Summer Internship Inquiry - B.Tech ECE Student - Altamash
+**Subject:** Summer Internship Inquiry - B.Tech ME Student - Tanishq Loharuka
 
 Dear Internship Coordinator,
 
-I am a first-year B.Tech student at VIT Bhopal University specializing in AI & Cybernetics. I am writing to express my strong interest in a summer internship opportunity with your technical team.
+I am a first-year B.Tech ME Core student at VIT Bhopal University. I am writing to express my strong interest in a summer internship opportunity with your technical team.
 
 I have been developing my skills in c++, digital electronics, and Fundamental of AI&ML through my recent coursework. I am eager to apply this foundational knowledge to contribute to your organization's ongoing projects.
 
 I have attached my resume and a link to my professional GitHub portfolio for your consideration. I look forward to the possibility of discussing how my background aligns with your team's needs.
 
 Sincerely,  
-**Altamash**  
-Reg No: 25BAC10010  
-GitHub: https://github.com/altamash70
+**Tanishq Loharuka**  
+Reg No: 25BME10004 
+GitHub: https://github.com/tanishq25bme10004-create
 
 ---
